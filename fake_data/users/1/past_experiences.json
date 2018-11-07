@@ -7,7 +7,7 @@
       "dates_start": "JUN 2018",
       "date_end": "OCT 2018",
       "responsibilities": "
-
+ 
 •	Responsible for setting up and implementing the CI pipeline server Jenkins to run unit, unit instumented, UI instumented and mock tests and create a artifacts.
 
 •	Going forward all new code was written in Kotlin.
