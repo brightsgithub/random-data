@@ -7,7 +7,7 @@
       "dates_start": "JUN 2018",
       "date_end": "OCT 2018",
       "responsibilities": "
- 
+
 •	Responsible for setting up and implementing the CI pipeline server Jenkins to run unit, unit instumented, UI instumented and mock tests and create a artifacts.
 
 •	Going forward all new code was written in Kotlin.
@@ -23,6 +23,10 @@
 •	Day to day maintenance of the app i.e. new features, bug fixes UI updates.
 
 •	Also did some work on web services using GO.
+
+Technologies used: Working in an agile scrum environment,
+Kotlin, Architecture components Room, Live Data & View Model. TDD (Test Driven Development), Pivotal Tracker, using MVVM Clean Architecture. RXAndroid2/Java, MockWebServer, Retrofit 2, Dagger 2, Material Design approach, Picasso. Testing involved all 3 types i.e Unit tests for behaviour, Unit Instrumentation tests testing all via device which was non UI, Espresso UI tests for UI testing, Mockito, & all the standard Android classes such as Fragments, Broadcast receivers, Activities etc.
+
 ",
       "company_logo": "https://raw.githubusercontent.com/brightsgithub/random-data/master/fake_data/users/1/sains_gol_logo.png"
     },
