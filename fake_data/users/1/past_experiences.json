@@ -2,11 +2,28 @@
   "past_experiences": [
     {
       "id": 1,
-      "company_name": "asdadas",
-      "role_name": "asdasdasdasdas",
-      "dates_start": "asdasdasdasdas",
-      "date_end": "asdasdasdasdas",
-      "responsibilities": "asdasdasdasdas",
+      "company_name": "Sainsbury’s",
+      "role_name": "Android senior developer (Contract)",
+      "dates_start": "JUN 2018",
+      "date_end": "OCT 2018",
+      "responsibilities": "
+
+•	Responsible for setting up and implementing the CI pipeline server Jenkins to run unit, unit instumented, UI instumented and mock tests and create a artifacts.
+
+•	Going forward all new code was written in Kotlin.
+
+•	Suggested and implemented going forward to use RXJava2, Retrofit, Clean Architecture with MVVM, Architecture components such as Live Data, Room and View Models with a TDD approach.
+
+•	Advised on the benefits of OKHTTP MockWebServer for testing and then implemented it.
+
+•	Responsible for App release management.
+
+•	UX/UI Review. Feedback/advice on Material Design for Android i.e. using as much native components & solutions as possible, as so to be intuitive to the user.
+
+•	Day to day maintenance of the app i.e. new features, bug fixes UI updates.
+
+•	Also did some work on web services using GO.
+",
       "company_logo": "https://raw.githubusercontent.com/brightsgithub/random-data/master/fake_data/users/1/sains_gol_logo.png"
     },
     {
