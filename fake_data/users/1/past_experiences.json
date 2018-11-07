@@ -7,7 +7,7 @@
       "dates_start": "asdasdasdasdas",
       "date_end": "asdasdasdasdas",
       "responsibilities": "asdasdasdasdas",
-      "company_logo": "https://github.com/brightsgithub/random-data/blob/master/fake_data/users/1/sains_gol_logo.png"
+      "company_logo": "https://raw.githubusercontent.com/brightsgithub/random-data/master/fake_data/users/1/sains_gol_logo.png"
     },
     {
       "id": 2,
@@ -16,7 +16,7 @@
       "dates_start": "asdasdasdasdas",
       "date_end": "asdasdasdasdas",
       "responsibilities": "asdasdasdasdas",
-      "company_logo": "https://github.com/brightsgithub/random-data/blob/master/fake_data/users/1/bighand_logo.png"
+      "company_logo": "https://raw.githubusercontent.com/brightsgithub/random-data/master/fake_data/users/1/bighand_logo.png"
     },
     {
       "id": 3,
@@ -25,7 +25,7 @@
       "dates_start": "asdasdasdasdas",
       "date_end": "asdasdasdasdas",
       "responsibilities": "asdasdasdasdas",
-      "company_logo": "https://github.com/brightsgithub/random-data/blob/master/fake_data/users/1/avios_logo.png"
+      "company_logo": "https://raw.githubusercontent.com/brightsgithub/random-data/master/fake_data/users/1/avios_logo.png"
     }
   ]
 }
