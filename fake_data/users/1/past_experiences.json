@@ -1,31 +1,31 @@
 ﻿{
   "past_experiences": [
     {
-      "id": "1",
+      "id": 1,
       "company_name": "asdadas",
       "role_name": "asdasdasdasdas",
       "dates_start": "asdasdasdasdas",
       "date_end": "asdasdasdasdas",
       "responsibilities": "asdasdasdasdas",
-      "company_logo": "someUrl.png"
+      "company_logo": "https://github.com/brightsgithub/random-data/blob/master/fake_data/users/1/sains_gol_logo.png"
     },
     {
-      "id": "2",
+      "id": 2,
       "company_name": "asdadas",
       "role_name": "asdasdasdasdas",
       "dates_start": "asdasdasdasdas",
       "date_end": "asdasdasdasdas",
       "responsibilities": "asdasdasdasdas",
-      "company_logo": "someUrl.png"
+      "company_logo": "https://github.com/brightsgithub/random-data/blob/master/fake_data/users/1/bighand_logo.png"
     },
     {
-      "id": "3",
+      "id": 3,
       "company_name": "asdadas",
       "role_name": "asdasdasdasdas",
       "dates_start": "asdasdasdasdas",
       "date_end": "asdasdasdasdas",
       "responsibilities": "asdasdasdasdas",
-      "company_logo": "someUrl.png"
+      "company_logo": "https://github.com/brightsgithub/random-data/blob/master/fake_data/users/1/avios_logo.png"
     }
   ]
 }
