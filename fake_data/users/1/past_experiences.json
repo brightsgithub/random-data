@@ -82,6 +82,58 @@ TDD (Test Driven Development), TFS, using MVP Clean Architecture approach as ins
 ",
       "company_logo": "https://raw.githubusercontent.com/brightsgithub/random-data/master/fake_data/users/1/avios_logo.png",
       "tech_used":"Technologies used: Working in an agile scrum environment, TDD (Test Driven Development), JIRA, using MVP Clean Architecture approach as inspired by Uncle Bob. RXAndroid/Java, ButterKnife, Retrofit 2, Dagger 2, Material Design approach, Picasso. Testing involved all 3 types i.e Unit tests for behaviour, Unit Instrumentation tests testing all via device which was non UI, Espresso UI tests for UI testing, Buddy build, Mockito, Powermock & all the standard Android classes such as Fragments, Broadcast receivers, Activities etc. BitBucket & Buddy build. "
+    },
+
+
+
+    {
+      "id": 4,
+      "company_name": "Sainsbury’s Smart Shop",
+      "role_name": "Android (senior/lead) Development role (Permanent)",
+      "dates_start": "MAR 2015",
+      "date_end": "JUN 2016",
+      "responsibilities": "Building the Sainsbury’s Smart Shop app from ground up
+
+•	Responsible for the Android version of SmartShop.
+
+•	Responsible for managing the internal QA and customer release builds to the public via the Google Play Developer Console. Utilising alpha and beta channels from the Google Play Developer Console.
+
+•	Involved in meetings with UX, UI & product owners to implement new screens and the best way forward for what suits Android. Taking in account what Android users expect as a natural/native user experience on this platform.
+
+•	Responsible for implementing the entire SDK for the web communication layer and authentication (OAuth 2.0) for our apps to share such as the Smart Shop app and the JS Handset app.
+
+•	Assisted with development of an in house Innovation app, using the much talked about new language Kotlin.
+
+•	Used Scandit, which is a scanning library used for scanning barcodes & QR codes, whilst the customer is shopping within the store.",
+      "company_logo": "https://raw.githubusercontent.com/brightsgithub/random-data/master/fake_data/users/1/sains_ss_logo.png",
+      "tech_used":"Technologies used: Working in an agile scrum environment, TDD (Test Driven Development), Location Services, Kotlin, Scandit, GSON, Parse, Card I/0 (Credit card scanner), Picasso, Crashlytics, QR Code generator, Activities, Recyclerviews, Handlers, Broadcast receivers, Android testing support with Junit, Espresso and Mockito."
+    },
+
+
+
+    {
+      "id": 5,
+      "company_name": "Truphone",
+      "role_name": "Android Development role (Permanent)",
+      "dates_start": "SEPT 2013",
+      "date_end": "MAR 2015",
+      "responsibilities": "Working on the Android version of our Truphone VOIP app
+
+    •	Maintaining the Truphone app via bug fixes and implementing new enhancements.
+
+•	Responsible for implementing the GCM Google API framework within the app for the purpose of notifying our customers of any new tutorials that will be presented to the end customer, and any promotions that will be shown to the customer offering them discounts on our products.
+
+•	Responsible for the massive refactor of our XMPP based Instant Messaging section of the app and implementing the XMPP edit message functionality for the app.
+
+•	Responsible for the implementing a new product, which contains many new screens for Truphone. Therefore since our app was mainly Activity based, I decided to go with fragments.
+
+•	Helped in the development of separating concerns in regards to how the android app made its web service calls and what could be reused in the future by another app or web app.
+
+•	Myself and another IOS developer were responsible for carrying out interviews of various candidates for an android developer role at Truphone. I also suggested that a mini android project to be completed within a few days to better assess the candidate. An excellent developer was then finally employed.",
+      "company_logo": "https://raw.githubusercontent.com/brightsgithub/random-data/master/fake_data/users/1/true_phone_logo.png",
+      "tech_used":"Technologies used: Working in an agile environment, Location Services, GCM, XMPP, In app billing, SQLLITE, Application, Singletones, Fragments, Activities, Services, Listviews (view holder) Tabs, Action bar menu, made calls to restful api’s, Aysnc tasks, Handlers."
     }
+
+
   ]
 }
