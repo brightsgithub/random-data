@@ -23,7 +23,7 @@
 
 •	Also did some work on web services using GO.
 ",
-      "company_logo": "https://raw.githubusercontent.com/brightsgithub/random-data/master/fake_data/users/1/sains_gol_logo.png",
+      "company_logo": "https://raw.githubusercontent.com/brightsgithub/random-data/master/fake_data/users/1/sains_gol_logo.jpg",
       "tech_used": "Working in an agile scrum environment,
       Kotlin, Architecture components Room, Live Data & View Model. TDD (Test Driven Development), Pivotal Tracker, using MVVM Clean Architecture. RXAndroid2/Java, MockWebServer, Retrofit 2, Dagger 2, Material Design approach, Picasso. Testing involved all 3 types i.e Unit tests for behaviour, Unit Instrumentation tests testing all via device which was non UI, Espresso UI tests for UI testing, Mockito, & all the standard Android classes such as Fragments, Broadcast receivers, Activities etc."
     },
@@ -80,7 +80,7 @@ TDD (Test Driven Development), TFS, using MVP Clean Architecture approach as ins
 
 •	Interviewing/hiring Android developers
 ",
-      "company_logo": "https://raw.githubusercontent.com/brightsgithub/random-data/master/fake_data/users/1/avios_logo.png",
+      "company_logo": "https://raw.githubusercontent.com/brightsgithub/random-data/master/fake_data/users/1/avios_logo.jpg",
       "tech_used":"Technologies used: Working in an agile scrum environment, TDD (Test Driven Development), JIRA, using MVP Clean Architecture approach as inspired by Uncle Bob. RXAndroid/Java, ButterKnife, Retrofit 2, Dagger 2, Material Design approach, Picasso. Testing involved all 3 types i.e Unit tests for behaviour, Unit Instrumentation tests testing all via device which was non UI, Espresso UI tests for UI testing, Buddy build, Mockito, Powermock & all the standard Android classes such as Fragments, Broadcast receivers, Activities etc. BitBucket & Buddy build. "
     },
 
