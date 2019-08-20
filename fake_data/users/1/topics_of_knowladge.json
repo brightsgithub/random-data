@@ -2,16 +2,19 @@
   "topics_of_knowladge": [
     {
       "id": "1",
+      "user_id": 1,
       "topic": "asdadas",
       "topic_detail": "asdasdasdasdas"
     },
     {
       "id": "2",
+      "user_id": 1,
       "topic": "asdadas",
       "topic_detail": "asdasdasdasdas"
     },
     {
       "id": "3",
+      "user_id": 1,
       "topic": "asdadas",
       "topic_detail": "asdasdasdasdas"
     }
