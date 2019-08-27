@@ -3,6 +3,29 @@
     {
       "id": 1,
       "user_id": 1,
+      "company_name": "HSBC",
+      "role_name": "Android senior developer (Contract)",
+      "dates_start": "DEC 2018",
+      "date_end": "JUL 2019",
+      "responsibilities": "
+•	Responsible for creating composed/atomic UI components added to the Mobile Design SDK and responsible for integrating the SDK into various HSBC apps.
+
+•	Responsible for creating the Mobile Network SDK and its GitHub repository as well as setting up permissions within Github, integration with Jenkins and Hockey app. Also responsible for implementing new network related calls within this SDK and integrating this into various HSBC apps.
+
+•	Responsible for creating the Mobile Security SDK and its GitHub repository as well as setting up permissions within Github, integration with Jenkins and Hockey app. Also responsible for implementing new encryption and keystore manager within this SDK.
+
+•	Responsible for various releases and integration into other apps of all of the above libraries.
+
+•	General day to day enhancements bug/fixing and supporting other apps in code maintenance.
+
+",
+      "company_logo": "https://raw.githubusercontent.com/brightsgithub/random-data/master/fake_data/users/1/hsbc_logo.png",
+      "tech_used": "Working in an agile scrum environment,
+      Kotlin, Coroutines, MockWebServer, Retrofit 2, Dagger 2, Facebook screenshot testing, Hockey App."
+    },
+{
+      "id": 2,
+      "user_id": 1,
       "company_name": "Sainsbury’s",
       "role_name": "Android senior developer (Contract)",
       "dates_start": "JUN 2018",
@@ -29,7 +52,7 @@
       Kotlin, Architecture components Room, Live Data & View Model. TDD (Test Driven Development), Pivotal Tracker, using MVVM Clean Architecture. RXAndroid2/Java, MockWebServer, Retrofit 2, Dagger 2, Material Design approach, Picasso. Testing involved all 3 types i.e Unit tests for behaviour, Unit Instrumentation tests testing all via device which was non UI, Espresso UI tests for UI testing, Mockito, & all the standard Android classes such as Fragments, Broadcast receivers, Activities etc."
     },
     {
-      "id": 2,
+      "id": 3,
       "user_id": 1,
       "company_name": "BigHand ",
       "role_name": "Android senior developer (Contract)",
@@ -63,7 +86,7 @@ TDD (Test Driven Development), TFS, using MVP Clean Architecture approach as ins
 
 
     {
-      "id": 3,
+      "id": 4,
       "user_id": 1,
       "company_name": "Avios ",
       "role_name": "Android lead development role (Contract)",
@@ -90,7 +113,7 @@ TDD (Test Driven Development), TFS, using MVP Clean Architecture approach as ins
 
 
     {
-      "id": 4,
+      "id": 5,
       "user_id": 1,
       "company_name": "Sainsbury’s Smart Shop",
       "role_name": "Android (senior/lead) Development role (Permanent)",
@@ -116,7 +139,7 @@ TDD (Test Driven Development), TFS, using MVP Clean Architecture approach as ins
 
 
     {
-      "id": 5,
+      "id": 6,
       "user_id": 1,
       "company_name": "Truphone",
       "role_name": "Android Development role (Permanent)",
